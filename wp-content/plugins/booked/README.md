@@ -1,2 +1,0 @@
-# booked
-Booked Appointment Plugin
